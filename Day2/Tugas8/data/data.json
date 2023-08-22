@@ -1,0 +1,90 @@
+[
+    {
+        "maskapai": "Adam Air",
+        "bandara_asal": "Soekarno-Hatta (CGK)",
+        "bandara_tujuan": "Sultan Iskandarmuda (BTJ)",
+        "harga": "2000000",
+        "pajak": 85000,
+        "total": 2085000
+    },
+    {
+        "maskapai": "Batik",
+        "bandara_asal": "Husein Sastranegara (BDO)",
+        "bandara_tujuan": "Sultan Iskandarmuda (BTJ)",
+        "harga": "100000",
+        "pajak": 65000,
+        "total": 165000
+    },
+    {
+        "maskapai": "Batik",
+        "bandara_asal": "Soekarno-Hatta (CGK)",
+        "bandara_tujuan": "Ngurah Rai (DPS)",
+        "harga": "890000",
+        "pajak": 110000,
+        "total": 1000000
+    },
+    {
+        "maskapai": "Brawijaya",
+        "bandara_asal": "Soekarno-Hatta (CGK)",
+        "bandara_tujuan": "Ngurah Rai (DPS)",
+        "harga": "2000",
+        "pajak": 110000,
+        "total": 112000
+    },
+    {
+        "maskapai": "Cawa",
+        "bandara_asal": "Soekarno-Hatta (CGK)",
+        "bandara_tujuan": "Ngurah Rai (DPS)",
+        "harga": "3131",
+        "pajak": 110000,
+        "total": 113131
+    },
+    {
+        "maskapai": "Citilink",
+        "bandara_asal": "Soekarno-Hatta (CGK)",
+        "bandara_tujuan": "Sultan Iskandarmuda (BTJ)",
+        "harga": "89000",
+        "pajak": 85000,
+        "total": 174000
+    },
+    {
+        "maskapai": "Garuda Indonesia",
+        "bandara_asal": "Soekarno-Hatta (CGK)",
+        "bandara_tujuan": "Ngurah Rai (DPS)",
+        "harga": "1500000",
+        "pajak": 110000,
+        "total": 1610000
+    },
+    {
+        "maskapai": "Zeus",
+        "bandara_asal": "Soekarno-Hatta (CGK)",
+        "bandara_tujuan": "Ngurah Rai (DPS)",
+        "harga": "2000",
+        "pajak": 110000,
+        "total": 112000
+    },
+    {
+        "maskapai": "Zeus",
+        "bandara_asal": "Soekarno-Hatta (CGK)",
+        "bandara_tujuan": "Ngurah Rai (DPS)",
+        "harga": "2000",
+        "pajak": 110000,
+        "total": 112000
+    },
+    {
+        "maskapai": "Zeus",
+        "bandara_asal": "Soekarno-Hatta (CGK)",
+        "bandara_tujuan": "Ngurah Rai (DPS)",
+        "harga": "2000",
+        "pajak": 110000,
+        "total": 112000
+    },
+    {
+        "maskapai": "Zeus",
+        "bandara_asal": "Soekarno-Hatta (CGK)",
+        "bandara_tujuan": "Ngurah Rai (DPS)",
+        "harga": "2000",
+        "pajak": 110000,
+        "total": 112000
+    }
+]
