@@ -50,9 +50,9 @@ function pembagian($bilangan1, $bilangan2)
       <hr>
 
       <p>Hasil penjumlahan adalah <?= penjumlahan($bilangan1, $bilangan2) ?></p> <!-- panggil fungsi yang sudah di deklarasikan diatas sesuai dengan operasinya-->
-      <p>Hasil penjumlahan adalah <?= pengurangan($bilangan1, $bilangan2) ?></p> <!-- panggil fungsi yang sudah di deklarasikan diatas sesuai dengan operasinya-->
-      <p>Hasil penjumlahan adalah <?= perkalian($bilangan1, $bilangan2) ?></p><!-- panggil fungsi yang sudah di deklarasikan diatas sesuai dengan operasinya-->
-      <p>Hasil penjumlahan adalah <?= pembagian($bilangan1, $bilangan2) ?></p><!-- panggil fungsi yang sudah di deklarasikan diatas sesuai dengan operasinya-->
+      <p>Hasil pengurangan adalah <?= pengurangan($bilangan1, $bilangan2) ?></p> <!-- panggil fungsi yang sudah di deklarasikan diatas sesuai dengan operasinya-->
+      <p>Hasil perkalian adalah <?= perkalian($bilangan1, $bilangan2) ?></p><!-- panggil fungsi yang sudah di deklarasikan diatas sesuai dengan operasinya-->
+      <p>Hasil pembagian adalah <?= pembagian($bilangan1, $bilangan2) ?></p><!-- panggil fungsi yang sudah di deklarasikan diatas sesuai dengan operasinya-->
 </body>
 
 </html>
