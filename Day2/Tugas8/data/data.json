@@ -1,11 +1,27 @@
 [
     {
+        "maskapai": "Abdul ",
+        "bandara_asal": "Abdul Rachman Saleh (MLG)",
+        "bandara_tujuan": "Hasanudin (UPG)",
+        "harga": "50000",
+        "pajak": 70000,
+        "total": 120000
+    },
+    {
         "maskapai": "Adam Air",
         "bandara_asal": "Soekarno-Hatta (CGK)",
         "bandara_tujuan": "Sultan Iskandarmuda (BTJ)",
         "harga": "2000000",
         "pajak": 85000,
         "total": 2085000
+    },
+    {
+        "maskapai": "Adam api",
+        "bandara_asal": "Soekarno-Hatta (CGK)",
+        "bandara_tujuan": "Ngurah Rai (DPS)",
+        "harga": "20000",
+        "pajak": 110000,
+        "total": 130000
     },
     {
         "maskapai": "Batik",
@@ -54,30 +70,6 @@
         "harga": "1500000",
         "pajak": 110000,
         "total": 1610000
-    },
-    {
-        "maskapai": "Zeus",
-        "bandara_asal": "Soekarno-Hatta (CGK)",
-        "bandara_tujuan": "Ngurah Rai (DPS)",
-        "harga": "2000",
-        "pajak": 110000,
-        "total": 112000
-    },
-    {
-        "maskapai": "Zeus",
-        "bandara_asal": "Soekarno-Hatta (CGK)",
-        "bandara_tujuan": "Ngurah Rai (DPS)",
-        "harga": "2000",
-        "pajak": 110000,
-        "total": 112000
-    },
-    {
-        "maskapai": "Zeus",
-        "bandara_asal": "Soekarno-Hatta (CGK)",
-        "bandara_tujuan": "Ngurah Rai (DPS)",
-        "harga": "2000",
-        "pajak": 110000,
-        "total": 112000
     },
     {
         "maskapai": "Zeus",
